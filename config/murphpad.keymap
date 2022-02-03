@@ -51,7 +51,7 @@
     };
     
     ext-power {
-                init-delay-ms = <150>;
+                init-delay-ms = <50>;
     };
 
     keymap0: keymap {
