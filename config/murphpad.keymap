@@ -49,10 +49,6 @@
         compatible = "zmk,keymap-sensors";
         sensors = <&encoder_1 &encoder_2>;
     };
-    
-    ext-power {
-                init-delay-ms = <50>;
-    };
 
     keymap0: keymap {
         compatible = "zmk,keymap";
